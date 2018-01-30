@@ -1,0 +1,15 @@
+
+
+This is the most basic code for baremetal ARM.
+Simulation is done by QEMU.
+
+
+How to USE:
+$ make
+	generate binary
+
+$ make sim
+	simulation by QEMU
+
+License:
+	Public domain
